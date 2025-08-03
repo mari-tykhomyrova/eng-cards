@@ -1,4 +1,4 @@
-## Insallation
+## Installation
 
 Download go language from [Download and Install GO](https://go.dev/doc/install)
 
